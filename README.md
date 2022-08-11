@@ -35,3 +35,9 @@ docker ps でコンテナIDを確認後
 ```
 
 - http://localhost:8000 にアクセスして動作確認
+
+- Docker 停止
+
+```
+% docker-compose down
+```
